@@ -1,0 +1,15 @@
+C:\Users\USER\OneDrive\Área de Trabalho\Raspberry\estudando_csharp\obj\Debug\net7.0\estudando_csharp.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Área de Trabalho\Raspberry\estudando_csharp\obj\Debug\net7.0\estudando_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Área de Trabalho\Raspberry\estudando_csharp\obj\Debug\net7.0\estudando_csharp.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Área de Trabalho\Raspberry\estudando_csharp\obj\Debug\net7.0\estudando_csharp.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Área de Trabalho\Raspberry\estudando_csharp\obj\Debug\net7.0\estudando_csharp.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Área de Trabalho\Raspberry\estudando_csharp\bin\Debug\net7.0\estudando_csharp.exe
+C:\Users\USER\OneDrive\Área de Trabalho\Raspberry\estudando_csharp\bin\Debug\net7.0\estudando_csharp.deps.json
+C:\Users\USER\OneDrive\Área de Trabalho\Raspberry\estudando_csharp\bin\Debug\net7.0\estudando_csharp.runtimeconfig.json
+C:\Users\USER\OneDrive\Área de Trabalho\Raspberry\estudando_csharp\bin\Debug\net7.0\estudando_csharp.dll
+C:\Users\USER\OneDrive\Área de Trabalho\Raspberry\estudando_csharp\bin\Debug\net7.0\estudando_csharp.pdb
+C:\Users\USER\OneDrive\Área de Trabalho\Raspberry\estudando_csharp\obj\Debug\net7.0\estudando_csharp.dll
+C:\Users\USER\OneDrive\Área de Trabalho\Raspberry\estudando_csharp\obj\Debug\net7.0\refint\estudando_csharp.dll
+C:\Users\USER\OneDrive\Área de Trabalho\Raspberry\estudando_csharp\obj\Debug\net7.0\estudando_csharp.pdb
+C:\Users\USER\OneDrive\Área de Trabalho\Raspberry\estudando_csharp\obj\Debug\net7.0\estudando_csharp.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Área de Trabalho\Raspberry\estudando_csharp\obj\Debug\net7.0\ref\estudando_csharp.dll
